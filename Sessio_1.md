@@ -69,7 +69,7 @@ docker run hello-world
 
 Si observem els missatges, veurem el següent:
 
-- No troba la imatge en local, per tant se la baixa del registre, en aquest Docker Hub.
+- No troba la imatge en local, per tant se la baixa del registre, en aquest cas Docker Hub.
 - Un cop baixada, executa el contenidor, en aquest cas, ens mostra un missatge de benvinguda amb informació sobre Docker. Un cop el contenidor ha acabat la seva feina, s'atura.
 
 ```powershell
